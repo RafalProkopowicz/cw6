@@ -9,7 +9,6 @@ void getInt(int* tab, int liczba) {
     printf("%d", tab[i]);
   }
 }
-voi
 
 int main(void){
 
