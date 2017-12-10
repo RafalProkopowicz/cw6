@@ -4,7 +4,7 @@
 #include <time.h>
 
 int cxtab(int c,int tab){
-  return (c + tab);
+  return (c * tab);
 }
 
 int main() {

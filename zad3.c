@@ -11,5 +11,6 @@ int main() {
     skalar += a[i] * b[i];
   }
   
+
   printf("%d\n", skalar);
 }
